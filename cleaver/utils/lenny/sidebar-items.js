@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["fliptable","(╯°□°）╯︵ ┻━┻"],["gen","Generate a new Lenny Face."]]});
